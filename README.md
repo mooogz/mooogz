@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mooogz
 - 👀 I’m interested in becoming a full-stack web developer
-- 🌱 I’m currently learning vanilla JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: https://www.twitter.com/MegzDev
 
