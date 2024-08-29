@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mooogz
 - 👀 I’m interested in becoming a full-stack web developer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to make small open-source contributions as I continue to learn
 - 📫 How to reach me: https://www.twitter.com/MegzDev
 
 <!---
